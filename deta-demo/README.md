@@ -1,0 +1,8 @@
+# deta-demo
+This is demo for git and github class.
+
+# Teacher
+ujwla naik
+
+# student 
+delta student
